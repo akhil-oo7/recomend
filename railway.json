@@ -3,6 +3,6 @@
     "builder": "NIXPACKS"
   },
   "deploy": {
-    "startCommand": "npm start"
+    "startCommand": "streamlit run app/streamlit_app.py"
   }
 }
